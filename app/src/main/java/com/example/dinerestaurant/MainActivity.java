@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().hide();
         email = findViewById(R.id.email);
         password1 =findViewById(R.id.password);
         register=(TextView) findViewById(R.id.button7);
