@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207284577166",
+    "project_id": "dine-restaurant-a820d",
+    "storage_bucket": "dine-restaurant-a820d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207284577166:android:7515fba213ae5070b33adf",
+        "android_client_info": {
+          "package_name": "com.example.dinerestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207284577166-ejs1oeh9ru2bjhm98e3fv1he3qbkge6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20ggKI8Ys8iHtzZNZAbqe2yeE7DejJaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207284577166-ejs1oeh9ru2bjhm98e3fv1he3qbkge6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
